@@ -1,4 +1,4 @@
-package is.colony.nid;
+package io.hugi.nid;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package is.colony.nid;
+package io.hugi.nid;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
@@ -7,6 +7,8 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import java.time.LocalDate;
 
 import org.junit.jupiter.api.Test;
+
+import io.hugi.nid.NID;
 
 /**
  * Tests for USPersidnoUtilities.
